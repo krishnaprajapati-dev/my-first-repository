@@ -8,6 +8,7 @@ Hello! I'm Krishna Prajapati.
 I'm a first-year B.Tech student in Computer Science & Engineering (Data Science) at MIET Meerut.
 
 ## About This Repository
+This repository marks the beginning of my software development journey. I'll continue building new projects and improving my skills over time.
 This is my first GitHub repository. I created it to begin my journey of learning Git, GitHub, and software development.
 
 ## My Goals
