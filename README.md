@@ -1,7 +1,7 @@
 # my-first-repository
 My first GitHub repository as a B.Tech CSE (Data Science) student.
 <br>
-Author - Krishna Prajapat
+Author - Krishna Prajapati
 
 Hello! I'm Krishna Prajapati.
 
